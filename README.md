@@ -4,12 +4,6 @@
  Utiliza a framework CREATIVE. Para uso em outras frameworks pode ser necessário algumas adaptações.
  
 
-**FEATURES :**
-```
-git status
-git add
-git commit
-```
 
 
  Este script foi desenvolvido especificamente para o projeto "ALTUS Z".
